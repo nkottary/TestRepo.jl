@@ -1,0 +1,4 @@
+name = "TestRepo"
+uuid = "50d30c41-5abf-4d4a-b8c5-d3c859c41631"
+authors = ["Sebastian Rollen <rollenseb@gmail.com>"]
+version = "0.1.0"
