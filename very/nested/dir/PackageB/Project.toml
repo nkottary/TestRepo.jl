@@ -1,0 +1,4 @@
+name = "PackageB"
+uuid = "9941fbbb-7f72-459b-a27f-e3ec3555dcc9"
+authors = ["Sebastian Rollen <rollenseb@gmail.com>"]
+version = "0.1.0"
